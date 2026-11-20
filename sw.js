@@ -1,5 +1,5 @@
 // Bump this version every time you change any app file, so users get the update.
-const CACHE_NAME = 'process-timer-v7';
+const CACHE_NAME = 'process-timer-v9';
 ```[cite: 4]
 
 const APP_SHELL = [
